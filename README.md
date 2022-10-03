@@ -8,7 +8,7 @@ Cuando navegues en el modo de incógnito, no se guardarán en tu dispositivo el 
 
 **¿Que tan seguro es el modo incognito?**
 
-El modo incógnito no protege tu información de ser vista por terceros más de lo que lo haría la navegación normal. Significa que tus búsquedas aparecerán durante cualquier actividad maliciosa o si el gobierno quisiera investigar tu historial.
+El modo incógnito no protege tu información de ser vista por terceros más de lo que lo haría la navegación normal. 
 
 **¿Quien puede ver lo que veo en modo incognito?**
 
