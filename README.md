@@ -10,9 +10,6 @@ Cuando navegues en el modo de incógnito, no se guardarán en tu dispositivo el 
 
 El modo incógnito no protege tu información de ser vista por terceros más de lo que lo haría la navegación normal. 
 
-**¿Quien puede ver lo que veo en modo incognito?**
-
-Tú y cualquier persona que use tu dispositivo podrán ver y abrir los archivos. Todos los favoritos que hayas creado se guardan en Chrome.
 
 **¿COMO PONER EL MODO INCOGNITO?**
 
